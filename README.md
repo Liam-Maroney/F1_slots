@@ -1,2 +1,2 @@
-# F1_slots
+# Slots
 Slots machine game
