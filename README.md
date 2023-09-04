@@ -1,2 +1,0 @@
-# Slots
-Slots machine game
